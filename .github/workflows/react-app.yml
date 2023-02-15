@@ -17,3 +17,4 @@ jobs:
         context: .
         push: true
         tags: quaank/brightstarts:${{ github.run_number }}
+        
